@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment[ja]=マインスイーパー
+Exec=/opt/game/mine/mine
+Icon=clanbomber
+Name=Mine Sweeper
+Path=/opt/game/mine/
+Terminal=0
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

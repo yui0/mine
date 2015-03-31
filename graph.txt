@@ -1,0 +1,46 @@
+#-------------------------------------------------
+#	.bmp data instruction
+#
+#	copyright 2000,adas
+#-------------------------------------------------
+#data format
+#bmp idnumber bmpfilename (no)
+#if 'no' or other characters exists,it has no transparent color
+
+10	open.bmp
+11	open1.bmp
+12	open2.bmp
+13	open3.bmp
+14	open4.bmp
+15	open5.bmp
+16	open6.bmp
+17	open7.bmp
+18	open8.bmp
+19	close.bmp
+20	bomb.bmp
+
+21	black.bmp	no
+22	cursor.bmp
+
+23	quitbutton.bmp
+24	restart.bmp
+
+25	burst.bmp
+26	clear.bmp
+
+27	resultbutton.bmp
+
+30	bombratio.bmp
+31	ratio15.bmp
+32	ratio18.bmp
+33	ratio21.bmp
+34	ratio24.bmp
+
+40	stagesize.bmp
+41	size88.bmp
+42	size1212.bmp
+43	size1812.bmp
+44	size2015.bmp
+
+50	regulation.bmp
+
